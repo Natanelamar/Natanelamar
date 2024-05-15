@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #7EA1C4;
+}
+
+.logo-img {
+    border: 1px solid #F5E21C;
+}
+
+h1 {
+    background-color: #1B365C;
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid #1B365C;
+    color: white;
+    padding: 10px;
+}
+
+.navbar-brand {
+    padding: 5px;
+    font-family: "Cinzel", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    color: #7EA1C4;
+}
+
+.navbar {
+    background-color: #1B365C;
+    border: 1px solid black;
+}
+
+.navbar-toggler {
+    background-color: #7EA1C4 !important;
+}
+
+.nav-link {
+    color: #7EA1C4 !important;
+}
+
+.nav-link:hover {
+    color: black !important;
+}
+ 
+.bi:hover{
+    fill: blue !important; /* Change the color to your desired color */
+}
